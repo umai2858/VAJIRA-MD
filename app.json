@@ -9,7 +9,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=TNl3xAzB#dPXSyEYDTOkYFzn-9WLhK-eTYHvvz-39-nZBzV5tg5A"
         },
         "PREFIX": {
             "description": "put prefix here",
@@ -28,7 +28,7 @@
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "923034830074"
         },
         "IMAGE": {
             "description": "Put bot image url here",
@@ -38,7 +38,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
